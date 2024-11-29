@@ -35,5 +35,5 @@ License
 
 This project is licensed under the MIT License.
 ```
-Feel free to customize the code and documentation to fit your specific needs. This should provide a good starting point for showcasing your chatbot project on GitHub.
+Feel free to customize the code and documentation to fit your specific needs.
 ```
